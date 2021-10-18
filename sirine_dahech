@@ -1,0 +1,6 @@
+include <stdio.h>
+int main()
+{ int a,b;
+a=10;
+printf(" la valeur de a est ",a);
+}
